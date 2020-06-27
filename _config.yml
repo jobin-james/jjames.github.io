@@ -3,14 +3,14 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Jobin James
+title: Sr. System Administrator
+email: jobinjames47@gmail.com
 phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+website: devopsbyte.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
